@@ -47,9 +47,9 @@ $ pip2 install mechanize
 
 ## Cara Menjalankan Script
 ```yml
-$ git clone 
-$ cd 
-$ python2 
+$ git clone https://github.com/DIMASMPP190/crackspro
+$ cd crackspro
+$ python2 crackspro.py
 ```
 
 ## Tutorial Facebook 
