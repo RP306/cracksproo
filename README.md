@@ -2,11 +2,11 @@
 Script CRACKS PRO Adalah Script Yang Bisa Mendapatkan Akun Facebook Mulai Dari Akun Locked, Akun Old, Akun Bergame, Akun Follower, Dan Masih Banyak Lagi Akun Facebook Lainnya.
 
 ## Screenshot Script
-<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO1.jpg" />
-<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO2.jpg" />
-<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO3.jpg" />
-<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO4.jpg" />
-<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO5.jpg" />
+<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO01.jpg" />
+<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO02.jpg" />
+<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO03.jpg" />
+<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO04.jpg" />
+<img src="https://github.com/DIMASMPP190/crackspro/blob/main/CRACKSPRO05.jpg" />
 
 ## Fitur Login
 - Login Via Token
@@ -46,7 +46,7 @@ $ pip2 install mechanize
 ```
 
 ## Cara Menjalankan Script
-```
+```yml
 $ git clone 
 $ cd 
 $ python2 
