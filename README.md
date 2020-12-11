@@ -57,7 +57,7 @@ $ python2 cracksproo.py
 * [Cara Mendapatkan Cookie Facebook](https://pandasid.blogspot.com/2020/05/cara-mendapatkan-cookie-facebook-dengan.html)
 * [Cara Mengatasi Akun Facebook Terkena Checkpoint](https://www.blogotech.net/2020/05/cara-mencegah-mengatasi-akun-fb-checkpoint.html)
 
-## Sosial Media
+## Chat Whatsapp
 Jika Ada Kendala Masalah Mengenai Script Silahkan Hubungi Kontak Saya Yang Tertera Dibawah Terima Kasih.
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=red&labelColor=white)](https://wa.me/message/5FPWZX7IUSJXF1)
